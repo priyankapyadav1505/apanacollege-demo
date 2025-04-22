@@ -1,8 +1,5 @@
 # this is my local repo
 test
 test
-
-
-
-
-testgi
+<p>this is new repo<p>
+<p>this is new feature<p>
